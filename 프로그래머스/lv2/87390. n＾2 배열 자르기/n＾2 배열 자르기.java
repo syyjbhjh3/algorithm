@@ -6,7 +6,6 @@ class Solution {
         
         int x = 0;
         int y = 0;
-        int z = 0;
         
         for(int i=0; i<answer.length; i++){
             x = (int) (left / (long) n);
@@ -21,9 +20,3 @@ class Solution {
         
     }
 }
-
-// 12345
-// 22345
-// 33345
-// 44445
-// 55555
